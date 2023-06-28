@@ -1,0 +1,32 @@
+body {
+  background-color: tomato; /* Set background color */
+  font-family: Arial, sans-serif; /* Set font family */
+  text-align: center; /* Center align the content */
+}
+
+.container {
+  margin-top: 100px; /* Add margin to center the container vertically */
+}
+
+h1 {
+  font-size: 30px; /* Set font size for heading */
+  margin-bottom: 20px; /* Add bottom margin to create space between heading and clock */
+}
+
+.clock {
+  font-size: 60px; /* Set font size for clock */
+  background-color: #fff; /* Set background color for clock */
+  padding: 20px; /* Add padding for better visibility */
+  border-radius: 8px; /* Add border radius for a rounded appearance */
+  display: inline-block; /* Display the clock as inline-block to center it horizontally */
+  margin-bottom: 20px; /* Add bottom margin to create space between clock and alarm */
+}
+
+.alarm {
+  margin-bottom: 20px; /* Add bottom margin to create space between alarm inputs and buttons */
+}
+
+button {
+  margin: 5px; /* Add margin around the buttons for spacing */
+  font-size: 18px; /* Set font size for buttons */
+}
