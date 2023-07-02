@@ -1,5 +1,5 @@
 # Alarm_Clock
-check out the link for App: https://github.com/abhishekvikram19/Alarm_Clock/settings/pages
+check out the link for App: https://github.com/abhishekvikram19/Alarm_Clock/
 Creating an alarm clock.
 Using ONLY vanilla javascript, no libraries or frameworks and HTML & CSS.
 In this Project
