@@ -1,5 +1,6 @@
 # Alarm_Clock
-Creating an alarm clock. Using ONLY vanilla javascript, no libraries or frameworks and HTML & CSS.
+Creating an alarm clock.
+Using ONLY vanilla javascript, no libraries or frameworks and HTML & CSS.
 In this Project
 I have added comments above each section of the code to provide a better understanding of the purpose and functionality of each part.
 ![Alarm_Clock1](https://github.com/abhishekvikram19/Alarm_Clock/assets/24250895/f028f576-cbcb-4af9-b209-338320e6a822)
@@ -8,7 +9,8 @@ I have added comments above each section of the code to provide a better underst
 HTML:
 
 The HTML code defines the structure of the alarm clock interface.
-It includes a heading, a clock display, a time selection area, and buttons for setting and stopping the alarm.
+It includes a heading, a clock display,
+a time selection area, and buttons for setting and stopping the alarm.
 CSS:
 
 The CSS code defines the styles and layout of the alarm clock interface.
